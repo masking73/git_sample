@@ -1,1 +1,28 @@
-# git_sample
+Production
+
+Status
+
+mas-king published about 1 hour ago
+
+Visibility
+
+Public
+
+Domain
+
+https://doc-parser--mas-king.replit.app
+
+Type
+
+Autoscale
+
+(2 vCPU / 4 GiB RAM / 1 Max)
+
+See all usage
+
+Database
+
+Production database connected
+
+
+
