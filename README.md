@@ -2,7 +2,7 @@ Production
 
 Status
 
-mas-king published about 1 hour ago
+mas-king published 
 
 Visibility
 
